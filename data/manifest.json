@@ -1,0 +1,22 @@
+{
+  "upstream_commit": "5de786e4c82ffed382f898fcf764043e955c67d5",
+  "figures": {
+    "budget": 30,
+    "trial": 7,
+    "seed": 2032
+  },
+  "files": {
+    "data/Re_tau_amp_theta.mat": {
+      "bytes": 45699569,
+      "sha256": "64a6289b89bbc0b9ef228133a2ee64c59fc97f92b5fe3f85d91aa331b21a1a98",
+      "histories_dtype": "float32",
+      "compression": "MATLAB v5 zlib",
+      "max_transition_time_change_from_float64": 1.4221963340332877e-06,
+      "float64_exception_count": 8
+    },
+    "data/figure_data.npz": {
+      "bytes": 73509,
+      "sha256": "cbd2037e43b545594bf8a4e78ec822d7df9dc524425cf902c04b07603ecc08d3"
+    }
+  }
+}
